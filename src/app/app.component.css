@@ -1,3 +1,4 @@
-.card {
-  max-width: 350px;
+.cards-container {
+  text-align: center;
+  margin-top: 50px;
 }
